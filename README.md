@@ -1,0 +1,2 @@
+# flutter_barcode_scanner
+
